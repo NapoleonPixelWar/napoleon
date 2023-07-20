@@ -1,0 +1,15 @@
+{
+  "contact": "Napoléon Pixel War",
+  "templates": [
+    {
+      "name": "Pixel Art de Napoléon par la communauté de Christopher Lannes",
+      "sources": [
+        "https://raw.githubusercontent.com/NapoleonPixelWar/napoleon/main/napoleon_pixel.png"
+      ],
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
